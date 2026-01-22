@@ -1,2 +1,10 @@
 # Mini-Fridge-with-Advanced-Controls
-A compact portable mini fridge using a vapor compression cycle, PLC’s and an HMI. 
+A compact portable mini fridge using a vapour compression cycle, PLCs and an HMI. 
+
+Short description of the project
+
+Features so far
+
+Hardware used
+
+Status
